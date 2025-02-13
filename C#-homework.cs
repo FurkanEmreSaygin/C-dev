@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using System.Reflection;
 
 class Program{
@@ -59,7 +60,7 @@ class Program{
         //------------------- String İşlemleri Uygulaması -------------------- //
 
 
-
+        /*
         Console.Write("Enter a sentence: ");
         string sentence = Console.ReadLine();
 
@@ -71,6 +72,17 @@ class Program{
         Console.WriteLine($"First character: {sentence.Substring(0,1)}");
         Console.WriteLine($"Last character: {last_char}");
         Console.WriteLine($"Trimmed sentence: {sentence.Trim()}");
-  
+        */
+
+        //----------------------- Yaş Hesaplama ------------------------------// 
+        
+        Console.Write("Enter your birth year: ");
+        int BirthDay = Convert.ToInt32(Console.ReadLine());
+
+        int SuAn = DateTime.Now.Year;
+
+        int age = SuAn - BirthDay;
+
+        Console.WriteLine($"You were born in {BirthDay} and you are {age} years old.");
     }
 }
