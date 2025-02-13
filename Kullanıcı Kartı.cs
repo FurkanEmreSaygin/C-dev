@@ -2,7 +2,11 @@
 
 class Program{
     static void Main(){
+        
+        //---------------------- Kullanıcı Kartı -------------------//
 
+
+        /*
         Console.Write("Enter your name: ");
         string name = Console.ReadLine();
         
@@ -27,7 +31,25 @@ class Program{
         Console.WriteLine($"Profession: {profession}");
 
         Console.Write("----------------------------");
-    
-    
+        */
+
+        //----------------------------- Hesap Makinesi ------------------------ //
+
+        Console.Write("Enter first number: ");
+        int a = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter second number: ");
+        int b = Convert.ToInt32(Console.ReadLine());
+
+        if (b != 0){
+            Console.WriteLine($"Addition: {a+b}");
+            Console.WriteLine($"Subtraction: {a-b}");
+            Console.WriteLine($"Multiplication: {a*b}");
+            Console.WriteLine($"Division: {a/b}");
+        }
+        else{
+            Console.Write("Error: Division by zero is not allowed.");
+        }
+
     }
 }
