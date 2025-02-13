@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 class Program{
     static void Main(){
@@ -33,8 +34,11 @@ class Program{
         Console.Write("----------------------------");
         */
 
+        
+        
         //----------------------------- Hesap Makinesi ------------------------ //
-
+        
+        /*
         Console.Write("Enter first number: ");
         int a = Convert.ToInt32(Console.ReadLine());
 
@@ -50,6 +54,23 @@ class Program{
         else{
             Console.Write("Error: Division by zero is not allowed.");
         }
+        */
 
+        //------------------- String İşlemleri Uygulaması -------------------- //
+
+
+
+        Console.Write("Enter a sentence: ");
+        string sentence = Console.ReadLine();
+
+        char last_char = sentence[sentence.Length - 1];
+
+        Console.WriteLine($"Uppercase: {sentence.ToUpper()}");
+        Console.WriteLine($"Lowercase: {sentence.ToLower()}");
+        Console.WriteLine($"Character count: {sentence.Length}");
+        Console.WriteLine($"First character: {sentence.Substring(0,1)}");
+        Console.WriteLine($"Last character: {last_char}");
+        Console.WriteLine($"Trimmed sentence: {sentence.Trim()}");
+  
     }
 }
