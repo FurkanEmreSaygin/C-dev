@@ -1,0 +1,15 @@
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\bin\Debug\net9.0\C-dev.exe
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\bin\Debug\net9.0\C-dev.deps.json
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\bin\Debug\net9.0\C-dev.runtimeconfig.json
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\bin\Debug\net9.0\C-dev.dll
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\bin\Debug\net9.0\C-dev.pdb
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.AssemblyInfoInputs.cache
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.AssemblyInfo.cs
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.csproj.CoreCompileInputs.cache
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.sourcelink.json
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.dll
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\refint\C-dev.dll
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.pdb
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\C-dev.genruntimeconfig.cache
+C:\Users\furky\Desktop\Acun Medya Akademi\C-dev\obj\Debug\net9.0\ref\C-dev.dll
