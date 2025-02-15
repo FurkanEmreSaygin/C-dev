@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furky\\Desktop\\Acun Medya Akademi\\C-dev\\C-dev.csproj",
+      "projectUniqueName": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj",
       "projectName": "C-dev",
-      "projectPath": "C:\\Users\\furky\\Desktop\\Acun Medya Akademi\\C-dev\\C-dev.csproj",
+      "projectPath": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj",
       "packagesPath": "C:\\Users\\furky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furky\\Desktop\\Acun Medya Akademi\\C-dev\\obj\\",
+      "outputPath": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furky\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
