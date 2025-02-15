@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj": {}
+    "C:\\Users\\furky\\Desktop\\New folder\\c-dev\\C-dev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj": {
+    "C:\\Users\\furky\\Desktop\\New folder\\c-dev\\C-dev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj",
+        "projectUniqueName": "C:\\Users\\furky\\Desktop\\New folder\\c-dev\\C-dev.csproj",
         "projectName": "C-dev",
-        "projectPath": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\C-dev.csproj",
+        "projectPath": "C:\\Users\\furky\\Desktop\\New folder\\c-dev\\C-dev.csproj",
         "packagesPath": "C:\\Users\\furky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furky\\Desktop\\New folder\\C-dev\\obj\\",
+        "outputPath": "C:\\Users\\furky\\Desktop\\New folder\\c-dev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\furky\\AppData\\Roaming\\NuGet\\NuGet.Config"

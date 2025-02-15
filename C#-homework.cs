@@ -75,7 +75,7 @@ class Program{
         */
 
         //----------------------- Yaş Hesaplama ------------------------------// 
-        
+        /*
         Console.Write("Enter your birth year: ");
         int BirthDay = Convert.ToInt32(Console.ReadLine());
 
@@ -84,5 +84,29 @@ class Program{
         int age = SuAn - BirthDay;
 
         Console.WriteLine($"You were born in {BirthDay} and you are {age} years old.");
+        */
+
+        //-----------------------  Basit Rastgele Sayı Üretme Uygulaması -------------------//
+
+        /*
+        Random rasgelesayi = new Random();
+        int Sayi = rasgelesayi.Next(1,101);
+        
+        Console.WriteLine($"Generated random number: {Sayi}");
+        */
+        
+        //-----------------------  Ortalama Hesaplama -------------------//
+        
+        Console.Write("Enter first number: ");
+        int first = Convert.ToInt32(Console.ReadLine());
+       
+        Console.Write("Enter second number: ");
+        int second = Convert.ToInt32(Console.ReadLine());
+    
+        Console.Write("Enter third number: ");
+        int third = Convert.ToInt32(Console.ReadLine());
+
+        int average = (first + second + third) / 3;
+        Console.WriteLine($"Average: {average}");
     }
 }
